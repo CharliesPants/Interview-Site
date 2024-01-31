@@ -1,4 +1,7 @@
 # Interview-Site
+
+Assuming python and django are currently installed on the machine.
+
 Navigate to the directory of a django project  and activate an instance of django or you could install the IntProj directory I included or use your own. 
 
 Run the following 
